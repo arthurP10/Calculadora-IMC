@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+.container {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+#resultado {
+    margin-top: 20px;
+    color: black;
+}
